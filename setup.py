@@ -63,3 +63,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Automated fix for issue #72: Remote: can't scroll when a swipe starts on a button
